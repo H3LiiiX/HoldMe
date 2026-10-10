@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "holdme",
+  "version": "${version}",
+  "name": "HoldMe",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/holdme/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.h3liiix.holdme.client.HoldMeClient"
+    ],
+    "main": [
+      "dev.h3liiix.holdme.HoldMe"
+    ]
+  },
+  "mixins": [
+    "holdme.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": ">=${minecraft_version}"
+  }
+}

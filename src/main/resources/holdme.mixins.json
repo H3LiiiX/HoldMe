@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.h3liiix.holdme.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerMixin",
+    "EntityMixin",
+    "ProjectileUtilMixin"
+  ],
+  "client": [
+    "PlayerModelMixin",
+    "AvatarRendererMixin",
+    "FirstPersonRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

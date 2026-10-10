@@ -1,0 +1,8 @@
+{
+  "holdme.hold_hand_left": "Hold Hand Left",
+  "holdme.hold_hand_right": "Hold Hand Right",
+  "holdme.prompt": "Press '%s' or '%s' to hold hands",
+  "holdme.uppies": "Uppies",
+  "holdme.uppies_prompt": "Press '%s' to give uppies",
+  "holdme.uppies_failed": "You can't lift them right now"
+}
