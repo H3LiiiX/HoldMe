@@ -1,6 +1,5 @@
 # Hold Me
 
-Ever wanted to hold hands with your "friends" in Minecraft? Then this mod is for you! Just press the designated
-keybinds (`G` for left hand and `H` for right hand) while looking at your friends to hold hands with them (they'll have
-to hold your hand back)
-![demonstration.png](demonstration.png)
+Ever wanted to hold hands or give uppies to your with your "friends" in Minecraft? Then this mod is for you! Just press the designated
+keybinds (`G` for left hand and `H` for right hand, or `U` for uppies) while looking at your friends (they'll have
+to accept your request)
